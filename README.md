@@ -14,18 +14,17 @@ When you click the buttons for * / - + then the calculation is immediatly occure
   \[1\] \[+\] \[2\] \[*\] \[3\] \[=\]
 
 ## Features
-<img src="https://user-images.githubusercontent.com/16160120/164895452-15531965-ddb3-4dd3-ae0c-0d34eb77e571.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895464-c47cfca0-e001-455c-a1c6-15ad61f47c6f.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895855-3b630f61-d066-438a-9362-df34ea7f774e.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895492-19b24c0b-1a4d-4c36-abaf-34efbf0eed3e.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895811-c3c98953-99e0-4266-a442-963bac998c08.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895750-5cc835bb-5972-4294-a7f8-a01c648e903b.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895519-84f1c1d2-9a63-4e92-9e80-7774792ccbfb.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895528-0e1c61ea-8903-4bca-80db-f47655df8322.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895532-d1ef6afc-e6ed-448e-a7a8-8aed658e9381.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895790-ef2c6257-15c4-4ec8-98d6-a8295569dc31.png" width="50px" />
+![image](https://user-images.githubusercontent.com/16160120/164895452-15531965-ddb3-4dd3-ae0c-0d34eb77e571.png)
+![image](https://user-images.githubusercontent.com/16160120/164895464-c47cfca0-e001-455c-a1c6-15ad61f47c6f.png)
+![image](https://user-images.githubusercontent.com/16160120/164895855-3b630f61-d066-438a-9362-df34ea7f774e.png)
+![image](https://user-images.githubusercontent.com/16160120/164895492-19b24c0b-1a4d-4c36-abaf-34efbf0eed3e.png)
+![image](https://user-images.githubusercontent.com/16160120/164895811-c3c98953-99e0-4266-a442-963bac998c08.png)
+![image](https://user-images.githubusercontent.com/16160120/164895750-5cc835bb-5972-4294-a7f8-a01c648e903b.png)
+![image](https://user-images.githubusercontent.com/16160120/164895519-84f1c1d2-9a63-4e92-9e80-7774792ccbfb.png)
+![image](https://user-images.githubusercontent.com/16160120/164895528-0e1c61ea-8903-4bca-80db-f47655df8322.png)
+![image](https://user-images.githubusercontent.com/16160120/164895532-d1ef6afc-e6ed-448e-a7a8-8aed658e9381.png)
+![image](https://user-images.githubusercontent.com/16160120/164895790-ef2c6257-15c4-4ec8-98d6-a8295569dc31.png)
 Corresponds to the each digits in the number.  
-
 
 ![image](https://user-images.githubusercontent.com/16160120/164895282-2e333bc8-89b7-470b-966a-1afcef462130.png) Input the decimal point.  
 ![image](https://user-images.githubusercontent.com/16160120/164894253-a5faa34c-968b-44e8-b12c-3c35828f30a5.png) Get Pi 3.14.....  
