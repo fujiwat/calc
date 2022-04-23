@@ -8,11 +8,9 @@ This is a simple calculator with decimal point. using F# WebSharper.
 Modern Web Browswer
 
 ## Usage
-Just Click the buttons as same as the phisical regular calculator.
-If you want to get the result of 1 + 2 * 3 then that means 1 + (2 * 3) = 7 therefore you need to click following order:  
+Just Click the buttons as same as the phisical regular calculator.  If you want to get the result of 1 + 2 * 3 then that means 1 + (2 * 3) = 7 therefore you need to click following order:  
   \[2\] \[*\] \[3\] \[+\] \[1\] \[=\]_
-When you click the buttons for * / - + then the calculation is immediatly occured.
-Therefore, if you click buttons by the following order then the result is (1+2)*3=9:  
+When you click the buttons for * / - + then the calculation is immediatly occured.  Therefore, if you click buttons by the following order then the result is (1+2)*3=9:  
   \[1\] \[+\] \[2\] \[*\] \[3\] \[=\]
 
 ## Features
@@ -46,8 +44,7 @@ Corresponds to the each digits in the number.
 
 
 
-The calculation values are using `double` which means 64bit IEEE floating point number type.
-Sometimes it cause a margin of error therefore this program round to the 10th decimal place.
+The calculation values are using `double` which means 64bit IEEE floating point number type.  Sometimes it cause a margin of error therefore this program round to the 10th decimal place.
 
 ## Reference
 This program is derived from following source code and modified, color, function "1/x", "Sin", "Cos", "Tan" and decimal point.
