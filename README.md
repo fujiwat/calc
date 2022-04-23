@@ -24,6 +24,10 @@ Therefore, if you click buttons by the following order then the result is (1+2)*
 ![image](https://user-images.githubusercontent.com/16160120/164895007-57c29ab1-04aa-47fc-8c1f-25885b156e4d.png) Calculate immediately.  
 ![image](https://user-images.githubusercontent.com/16160120/164894399-dababace-ee12-4de6-874b-25d4c1515c6a.png) Clear the input value to zero.  
 ![image](https://user-images.githubusercontent.com/16160120/164894424-29822b4d-f291-48a6-82a7-3921ea34fd16.png) All Clear the first operand and 2nd operand.  
+![image](https://user-images.githubusercontent.com/16160120/164895383-6369befa-6e7c-4508-a546-2683b22ccfbd.png) Get nagative number for the displaying value.  
+![image](https://user-images.githubusercontent.com/16160120/164895399-1b881299-b2ed-4432-abad-c94d2cd39ab2.png) Get the inverse number for the displaying value.  
+
+
 ![image](https://user-images.githubusercontent.com/16160120/164895028-1b82f163-c264-4391-9216-de5f6c0bdd82.png) Calculate immediately and set the next opration as division.  
 ![image](https://user-images.githubusercontent.com/16160120/164895035-b37a5f38-2001-40f3-a001-a1323d8db188.png) Calculate immediately and set the next opration as multiplication.  
 ![image](https://user-images.githubusercontent.com/16160120/164895044-973ff213-3275-4204-8b3b-a111124200bb.png) Calculate immediately and set the next opration as subtraction.  
