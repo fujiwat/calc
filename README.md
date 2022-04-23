@@ -45,9 +45,9 @@ Corresponds to each digit in the number.
 The calculation values are using `double` which means 64bit IEEE floating-point number type.  Sometimes it causes a margin of error therefore this program round to the 10th decimal place.
 
 ## Reference
-This program is derived from the following source code and modified, color, function "1/x", "Sin", "Cos", "Tan", and decimal point.  
+This program is derived from the following source code and modified the color and added functions "1/x", "Sin", "Cos", "Tan", and decimal point.  
 https://try.websharper.com/snippet/adam.granicz/00002I
-Web-font 'Quantico' is used from the following google font.
+Web-font 'Quantico' is used from the following google font.  
 https://fonts.google.com/specimen/Quantico
 
 ## Author
