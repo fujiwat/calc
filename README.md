@@ -47,7 +47,8 @@ Corresponds to the each digits in the number.
 The calculation values are using `double` which means 64bit IEEE floating point number type.  Sometimes it cause a margin of error therefore this program round to the 10th decimal place.
 
 ## Reference
-This program is derived from following source code and modified, color, function "1/x", "Sin", "Cos", "Tan" and decimal point.
+This program is derived from following source code and modified, color, function "1/x", "Sin", "Cos", "Tan" and decimal point.  
+https://try.websharper.com/snippet/adam.granicz/00002I
 
 ## Author
 Takahiro FUJIWARA
