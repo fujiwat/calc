@@ -7,7 +7,7 @@ This is a simple calculator with a decimal point. using F# WebSharper-SPA.
 ## Requirement
 Modern Web Browser
 Visual Studio 2022
-For the development environment, following command are needed:  
+For the development environment, following commands are needed:  
 ```
 > dotnet new -i WebSharper.Templates
 > dotnet tool install -g dotnet-ws
