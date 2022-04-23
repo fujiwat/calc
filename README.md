@@ -6,6 +6,17 @@ This is a simple calculator with a decimal point. using F# WebSharper-SPA.
 
 ## Requirement
 Modern Web Browser
+Visual Studio 2022
+For the development environment, following command are needed:  
+```
+> dotnet new -i WebSharper.Templates
+> dotnet tool install -g dotnet-ws
+> cd c:\<parent-folder-of-the-projects>
+> dotnet new websharper-spa -lang f# -n <project-name>
+> cd <project-name>
+> dotnet add package WebSharper.UI
+> dotnet tool install -g dotnet-ws
+```
 
 ## Usage
 Just Click the buttons as same as the physical regular calculator.  If you want to get the result of 1 + 2 * 3 then that means 1 + (2 * 3) = 7 therefore you need to click following order:  
