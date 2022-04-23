@@ -9,7 +9,7 @@ Modern Web Browser
 
 ## Usage
 Just Click the buttons as same as the physical regular calculator.  If you want to get the result of 1 + 2 * 3 then that means 1 + (2 * 3) = 7 therefore you need to click following order:  
-  \[2\] \[\*\] \[3\] \[+\] \[1\] \[=\]
+  \[2\] \[\*\] \[3\] \[+\] \[1\] \[=\]  
 When you click the buttons for * / - + then the calculation is immediately occurred.  Therefore, if you click buttons by the following order then the result is ( 1 + 2 ) \* 3 = 9:  
   \[1\] \[+\] \[2\] \[*\] \[3\] \[=\]
 
