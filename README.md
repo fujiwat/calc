@@ -25,6 +25,8 @@ When you click the buttons for * / - + then the calculation is immediatly occure
 <img src="https://user-images.githubusercontent.com/16160120/164895532-d1ef6afc-e6ed-448e-a7a8-8aed658e9381.png" width="50px" />
 <img src="https://user-images.githubusercontent.com/16160120/164895790-ef2c6257-15c4-4ec8-98d6-a8295569dc31.png" width="50px" />
 Corresponds to the each digits in the number.  
+
+
 ![image](https://user-images.githubusercontent.com/16160120/164895282-2e333bc8-89b7-470b-966a-1afcef462130.png) Input the decimal point.  
 ![image](https://user-images.githubusercontent.com/16160120/164894253-a5faa34c-968b-44e8-b12c-3c35828f30a5.png) Get Pi 3.14.....  
 ![image](https://user-images.githubusercontent.com/16160120/164894284-bc006a59-a772-49cb-a25f-aafc84b5d30b.png) Get Sin for the displaying value.  
@@ -41,6 +43,7 @@ Corresponds to the each digits in the number.
 ![image](https://user-images.githubusercontent.com/16160120/164895044-973ff213-3275-4204-8b3b-a111124200bb.png) Calculate immediately and set the next opration as subtraction.  
 ![image](https://user-images.githubusercontent.com/16160120/164895054-a542281c-5233-4ca4-b20c-22649f64274a.png) Calculate immediately and set the next opration as addition.  
 
+## Restrictions
 The calculation values are using `double` which means 64bit IEEE floating point number type.  Sometimes it cause a margin of error therefore this program round to the 10th decimal place.
 
 ## Reference
