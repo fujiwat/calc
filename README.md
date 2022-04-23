@@ -33,7 +33,7 @@ Therefore, if you click buttons by the following order then the result is (1+2)*
 ![image](https://user-images.githubusercontent.com/16160120/164895282-2e333bc8-89b7-470b-966a-1afcef462130.png) Input the decimal point.  
 <img src="https://user-images.githubusercontent.com/16160120/164895452-15531965-ddb3-4dd3-ae0c-0d34eb77e571.png" width="50px" />
 <img src="https://user-images.githubusercontent.com/16160120/164895464-c47cfca0-e001-455c-a1c6-15ad61f47c6f.png" width="50px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895474-d24300a0-ad0f-4892-a4d6-b6d28f5df7c2.png" width="50px" />
+<img src="https://user-images.githubusercontent.com/16160120/164895855-3b630f61-d066-438a-9362-df34ea7f774e.png" width="50px" />
 <img src="https://user-images.githubusercontent.com/16160120/164895492-19b24c0b-1a4d-4c36-abaf-34efbf0eed3e.png" width="50px" />
 <img src="https://user-images.githubusercontent.com/16160120/164895811-c3c98953-99e0-4266-a442-963bac998c08.png" width="50px" />
 <img src="https://user-images.githubusercontent.com/16160120/164895750-5cc835bb-5972-4294-a7f8-a01c648e903b.png" width="50px" />
