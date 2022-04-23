@@ -40,7 +40,8 @@ Therefore, if you click buttons by the following order then the result is (1+2)*
 <img src="https://user-images.githubusercontent.com/16160120/164895519-84f1c1d2-9a63-4e92-9e80-7774792ccbfb.png" width="40px" />
 <img src="https://user-images.githubusercontent.com/16160120/164895528-0e1c61ea-8903-4bca-80db-f47655df8322.png" width="40px" />
 <img src="https://user-images.githubusercontent.com/16160120/164895532-d1ef6afc-e6ed-448e-a7a8-8aed658e9381.png" width="40px" />
-<img src="https://user-images.githubusercontent.com/16160120/164895543-770eedc1-35cc-4603-bd5b-bab27d4d160e.png" width="40px" />
+<img src="https://user-images.githubusercontent.com/16160120/164895790-ef2c6257-15c4-4ec8-98d6-a8295569dc31.png" width="40px" />
+
 Corresponds to the each digits in the number.  
 
 
