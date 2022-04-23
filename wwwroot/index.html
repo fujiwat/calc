@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>calc</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="Content/calc.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quantico:ital@1&display=swap" rel="stylesheet">
+
+    <style>
+        button {
+            width: 48px;
+            height: 36px;
+            margin: 5px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .C {
+            background-color: #002933;
+            color: #A4E2E9;
+        }
+
+        .AC {
+            background-color: #002933;
+            color: #A4E2E9;
+        }
+
+        .E, .DIV, .MUL, .SUB, .PLS {
+            color: #A4E2E9;
+            background-color: #005266;
+            font-size: 20px;
+        }
+
+        .I, .N {
+            color: #A4E2E9;
+            background-color: #005266;
+        }
+
+        .SIN, .COS, .TAN {
+            color: #A4E2E9;
+            background-color: #00a3cc;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .E {
+            background-color: #00a3cc;
+        }
+
+        .PI {
+            color: #A4E2E9;
+            background-color: #00a3cc;
+            font-weight: lighter;
+        }
+
+        .BS {
+            color: #A4E2E9;
+            font-weight: bold;
+            background-color: #00a3cc;
+        }
+
+        .D {
+            color: #A4E2E9;
+            background-color: #007a99;
+        }
+
+        .P {
+            color: #A4E2E9;
+            background-color: #007a99;
+        }
+
+        input {
+            margin: 5px;
+            width: 266px;
+            padding: 5px;
+            font-size: 40px;
+            text-align: right;
+            font-weight: bold;
+            font-family: 'Quantico', sans-serif;
+            background-color: #CCE0E1;
+        }
+        /* Don't show the not-yet-loaded templates */
+        [ws-template], [ws-children-template] {
+            display: none;
+        }
+    </style>
+    <script type="text/javascript" src="Content/calc.head.js"></script>
+</head>
+    <body>
+        <div style="text-align: center; width: 290px; background-color: #0085A6; padding: 20px">
+            <h1 style="color:white">CALCULATOR</h1>
+            <p>Takahiro FUJIWARA - DQ4WX0</p>
+            <div id="main" ws-children-template="Main">
+                <div ws-hole="Main">
+                </div>
+            </div>
+            <script type="text/javascript" src="Content/calc.min.js"></script>
+        </div>
+    </body>
+</html>
