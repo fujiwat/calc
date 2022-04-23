@@ -38,9 +38,9 @@ When you click the buttons for * / - + then the calculation is immediately occur
 Corresponds to each digit in the number.  
 ![image](https://user-images.githubusercontent.com/16160120/164895282-2e333bc8-89b7-470b-966a-1afcef462130.png) Input the decimal point.  
 ![image](https://user-images.githubusercontent.com/16160120/164894253-a5faa34c-968b-44e8-b12c-3c35828f30a5.png) Get Pi 3.14.....  
-![image](https://user-images.githubusercontent.com/16160120/164894284-bc006a59-a772-49cb-a25f-aafc84b5d30b.png) Get Sin for the displaying value.  Value is radian only.
-![image](https://user-images.githubusercontent.com/16160120/164894292-a8899c46-cbfe-4208-9581-771c5251fe5d.png) Get Cosin for the displaying value.  Value is radian only.
-![image](https://user-images.githubusercontent.com/16160120/164894303-abd08d00-4095-4ee0-b767-c36961218556.png) Get tangent for the displaying value.  Value is radian only.
+![image](https://user-images.githubusercontent.com/16160120/164894284-bc006a59-a772-49cb-a25f-aafc84b5d30b.png) Get Sin for the displaying value.  Value is radian only.  
+![image](https://user-images.githubusercontent.com/16160120/164894292-a8899c46-cbfe-4208-9581-771c5251fe5d.png) Get Cosin for the displaying value.  Value is radian only.  
+![image](https://user-images.githubusercontent.com/16160120/164894303-abd08d00-4095-4ee0-b767-c36961218556.png) Get tangent for the displaying value.  Value is radian only.  
 ![image](https://user-images.githubusercontent.com/16160120/164894317-4f0db86d-a036-4c36-a07e-a881d74c0a21.png) Backspace without decimap point ".".  
 ![image](https://user-images.githubusercontent.com/16160120/164895007-57c29ab1-04aa-47fc-8c1f-25885b156e4d.png) Calculate immediately.  
 ![image](https://user-images.githubusercontent.com/16160120/164894399-dababace-ee12-4de6-874b-25d4c1515c6a.png) Clear the input value to zero.  
