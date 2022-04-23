@@ -517,7 +517,7 @@ if(!p.closest){p.closest=function(s){var e=this;while(e&&e.nodeType==1){if(e.mat
     updateDisplayByStr("E");
    else
     {
-     num=Math.round(num*Math.pow(10,12))/Math.pow(10,12);
+     num=Math.round(num*Math.pow(10,10))/Math.pow(10,10);
      strNum=Global.String(num);
      !Strings.exists(function(x)
      {
@@ -525,19 +525,6 @@ if(!p.closest){p.closest=function(s){var e=this;while(e&&e.nodeType==1){if(e.mat
      },strNum)?strNum=strNum+".":void 0;
      decimals=strNum.length-1-strNum.indexOf(".");
      display.SetValue(strNum);
-    }
-  }
-  function D(n)
-  {
-   if(decimals===0)
-    {
-     num=10*num+n;
-     updateDisplay();
-    }
-   else
-    {
-     strNum=strNum+Global.String(n);
-     updateDisplayByStr(strNum);
     }
   }
   function O(o,u)
@@ -560,6 +547,19 @@ if(!p.closest){p.closest=function(s){var e=this;while(e&&e.nodeType==1){if(e.mat
      return action();
     };
    })],[Doc.TextNode(caption)]);
+  }
+  function D(n)
+  {
+   if(decimals===0)
+    {
+     num=10*num+n;
+     updateDisplay();
+    }
+   else
+    {
+     strNum=strNum+Global.String(n);
+     updateDisplayByStr(strNum);
+    }
   }
   function digit(n)
   {
