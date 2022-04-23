@@ -27,5 +27,8 @@ The calculation values are using `double` which means 64bit IEEE floating point 
 Sometimes it cause a margin of error therefore this program round to the 10th decimal place.
 
 ## Reference
+This program is derived from following source code and modified, color, function "1/x", "Sin", "Cos", "Tan" and decimal point.
 
 ## Author
+Takahiro FUJIWARA
+https://www.linkedin.com/in/fujiwat/
