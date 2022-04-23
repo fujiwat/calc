@@ -46,7 +46,7 @@ The calculation values are using `double` which means 64bit IEEE floating-point 
 
 ## Reference
 This program is derived from the following source code and modified the color and added functions "1/x", "Sin", "Cos", "Tan", and decimal point.  
-https://try.websharper.com/snippet/adam.granicz/00002I
+https://try.websharper.com/snippet/adam.granicz/00002I  
 Web-font 'Quantico' is used from the following google font.  
 https://fonts.google.com/specimen/Quantico
 
