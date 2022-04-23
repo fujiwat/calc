@@ -23,10 +23,8 @@ Therefore, if you click buttons by the following order then the result is (1+2)*
 ![image](https://user-images.githubusercontent.com/16160120/164894399-dababace-ee12-4de6-874b-25d4c1515c6a.png) Clear the input value to zero.  
 ![image](https://user-images.githubusercontent.com/16160120/164894424-29822b4d-f291-48a6-82a7-3921ea34fd16.png) All Clear the first operand and 2nd operand.  
 
-The calculation values are using double which means 64bit IEEE floating point number type.
+The calculation values are using `double` which means 64bit IEEE floating point number type.
 Sometimes it cause a margin of error therefore this program round to the 10th decimal place.
-The floating point number
-
 
 ## Reference
 
